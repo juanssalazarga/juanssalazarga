@@ -24,6 +24,13 @@ Analyzed Fitbit activity and sleep data using Python and Tableau to identify beh
 
 [View project](https://github.com/juanssalazarga/Case_Study_Bellabeat)
 
+## 🏆 Accomplishments
+
+- Best Poster – Co-products, ISSCT XXXII Congress 2025
+- ISO 9001:2015 Internal Auditor – SENA
+- Google Data Analytics Professional Certificate – In Progress
+- Presented scientific research on microalgae and bioproducts at an international congress
+
 ## 🎓 Education & Certifications
 
 - M.Sc. Chemical Engineering
