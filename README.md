@@ -22,7 +22,7 @@ Python | pandas | SQL | BigQuery | Excel | Power BI | Tableau | LIMS
 ### Bellabeat Smart Device Usage Analysis
 Analyzed Fitbit activity and sleep data using Python and Tableau to identify behavioral patterns and develop data-driven recommendations.
 
-[View project](LINK_TO_YOUR_BELLABEAT_REPOSITORY)
+[View project](https://github.com/juanssalazarga/Case_Study_Bellabeat)
 
 ## 🎓 Education & Certifications
 
